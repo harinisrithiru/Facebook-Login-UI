@@ -1,0 +1,185 @@
+.android-compact-1,
+.android-compact-1 * {
+  box-sizing: border-box;
+}
+.android-compact-1 {
+  background: #ffffff;
+  height: 917px;
+  position: relative;
+  overflow: hidden;
+}
+.facebook {
+  color: #3c07db;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 103px;
+  top: 233px;
+  -webkit-text-stroke: 1px rgba(105, 189, 210, 0.98);
+}
+.rectangle-1 {
+  background: #fffcfc;
+  width: 358px;
+  height: 517px;
+  position: absolute;
+  left: 30px;
+  top: 289px;
+}
+.line-3 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 142px;
+  height: 0px;
+  position: absolute;
+  left: 220px;
+  top: 649px;
+}
+.rectangle-2 {
+  width: 312px;
+  height: 49px;
+  position: absolute;
+  left: 50px;
+  top: 355px;
+  overflow: visible;
+}
+.enter-email-or-phone-number {
+  color: #8a8181;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 60px;
+  top: 371px;
+}
+.rectangle-4 {
+  background: #f7f7f7;
+  width: 308px;
+  height: 49px;
+  position: absolute;
+  left: 50px;
+  top: 437px;
+}
+.enter-your-password {
+  color: #848080;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 60px;
+  top: 450px;
+}
+.rectangle-5 {
+  background: #3524d1;
+  width: 312px;
+  height: 42px;
+  position: absolute;
+  left: 50px;
+  top: 527px;
+}
+.log-in {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 169px;
+  top: 532px;
+  width: 103px;
+  height: 42px;
+}
+.forgetten-password {
+  color: #1d04a6;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 132px;
+  top: 593px;
+}
+.or {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 196px;
+  top: 636px;
+  width: 16px;
+  height: 19px;
+}
+.rectangle-6 {
+  background: #22d048;
+  width: 312px;
+  height: 46px;
+  position: absolute;
+  left: 50px;
+  top: 740px;
+}
+.create-new-account {
+  color: #fffafa;
+  text-align: left;
+  font-family: "Roboto-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 93px;
+  top: 749px;
+}
+.line-2 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 142px;
+  height: 0px;
+  position: absolute;
+  left: 220px;
+  top: 649px;
+}
+.line-4 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 137px;
+  height: 0px;
+  position: absolute;
+  left: 187px;
+  top: 649px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.logos-facebook {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 174px;
+  top: 136px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 47px;
+  top: 850px;
+  overflow: hidden;
+}
+.frame-2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 361px;
+  top: 87px;
+  overflow: hidden;
+}
